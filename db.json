@@ -41,6 +41,18 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "something",
+      "image": "http://localhost:3000/images/pilea.jpg",
+      "price": 12,
+      "id": 8
+    },
+    {
+      "name": "som",
+      "image": "http://localhost:3000/images/aloe.jpg",
+      "price": 14,
+      "id": 9
     }
   ]
 }
